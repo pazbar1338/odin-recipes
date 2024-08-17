@@ -1,0 +1,49 @@
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#odin-recipes-text{
+    font-size: 50px;
+    text-align: center;
+}
+
+#odin-box {
+    background-color: aqua;
+    padding: 5px;
+}
+
+body {
+    background-color: hsl(18, 66%, 7%);
+}
+
+.recipe-box {
+    background-color: #ec8139;
+    padding: 3px;
+    text-align: center;
+}
+
+#odin-god {
+    height: 650px;
+    width: auto;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border-width: 15px;
+    border-style: double;
+    
+}
+
+.recipe-box-ul {
+    display: inline-block;
+    text-align: left;
+}
+
+.dish-recipe {
+    font-size: 30px;
+    font-weight: bold;
+    color: #e0bdaf;
+}
+
+
