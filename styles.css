@@ -1,20 +1,17 @@
 
-* {
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 #odin-recipes-text{
     font-size: 50px;
     text-align: center;
 }
 
 #odin-box {
-    background-color: aqua;
+    background-color: #FF6C36;
     padding: 5px;
 }
 
 body {
-    background-color: hsl(18, 66%, 7%);
+    background-color: #FF4400;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .recipe-box {
